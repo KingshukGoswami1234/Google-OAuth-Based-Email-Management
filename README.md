@@ -128,8 +128,7 @@ pip install -r requirements.txt
 3.  Download credentials
 4.  Rename file to:
 
-```{=html}
-<!-- -->
+```
 ```
     client_secret.json
 
