@@ -127,11 +127,9 @@ pip install -r requirements.txt
 2.  Create OAuth Client ID (Desktop App)
 3.  Download credentials
 4.  Rename file to:
-
 ```
+     client_secret.json
 ```
-    client_secret.json
-
 5.  Place it in project root directory
 
 ------------------------------------------------------------------------
